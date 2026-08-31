@@ -27,6 +27,6 @@ Volume (Gas) = Mol x 24dm<sup>3</sup><br>
 | S (Sulfur) | 32 | 1 | 32 |
 | O (Oxygen) | 16 | 4 | 64 |
 
-- Now, sum the final result:
+- Now, sum the final result:<br>
 2 + 32 + 64 = 98<br>
 - Therefore, the molar mass of Sulfuric Acid (H<sub>2</sub>SO<sub>4</sub>) is 98g/mol
