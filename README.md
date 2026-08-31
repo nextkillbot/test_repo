@@ -33,5 +33,4 @@ Volume (Gas) = Mol x 24dm<sup>3</sup><br>
 
 ## Test
 1/2 = 0.5<br>
-א<<br<sub>0</sub>
-Lord that broke me apart...
+Nope...
