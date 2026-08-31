@@ -8,6 +8,6 @@ Have a good day to someone who reads this, appreciated.<br>
 
 6x10<sup>23</sup> = Avogadro's Constant
 
-Mol = Mass / Molar mass
-Concentration (mol/dm<sup>3</sup>) = Mol / Volume
-Volume (Gas) = Mol x 24dm<sup>3</sup>
+Mol = Mass / Molar mass<br>
+Concentration (mol/dm<sup>3</sup>) = Mol / Volume<br>
+Volume (Gas) = Mol x 24dm<sup>3</sup><br>
