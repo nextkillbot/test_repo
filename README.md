@@ -20,7 +20,6 @@ Volume (Gas) = Mol x 24dm<sup>3</sup><br>
 ## How to find the molar mass of a compound
 - Refer to the Periodic Table, find the nucleon number for each element, as well as the quantity of the element (e.g: Sulfuric Acid (H<sub>2</sub>SO<sub>4</sub>) )
 - Now, time to list down the nucleon number of each individual elements
-<br>
 
 | Elements | Nucleon no. (approx.) | Multiplier | Final result |
 | :---: | :---: | :---: | :---: |
