@@ -15,7 +15,7 @@ Volume (Gas) = Mol x 24dm<sup>3</sup><br>
 
 ## How to find the molar mass of an element
 - Refer to the Periodic Table, specifically on the nucleon number (e.g: Nucleon number of Oxygen (O) is 16)
-- That means, 16g/mol :D
+- That means, the molar mass of Oxygen (O) is 16g/mol :D
 
 ## How to find the molar mass of a compound
 - Refer to the Periodic Table, find the nucleon number for each element, as well as the quantity of the element (e.g: Sulfuric Acid (H<sub>2</sub>SO<sub>4</sub>) )
@@ -29,4 +29,4 @@ Volume (Gas) = Mol x 24dm<sup>3</sup><br>
 
 - Now, sum the final result:<br>
 2 + 32 + 64 = 98<br>
-- Therefore, the molar mass of Sulfuric Acid (H<sub>2</sub>SO<sub>4</sub>) is 98g/mol
+- Therefore, the molar mass of Sulfuric Acid (H<sub>2</sub>SO<sub>4</sub>) is 98g/mol :D
